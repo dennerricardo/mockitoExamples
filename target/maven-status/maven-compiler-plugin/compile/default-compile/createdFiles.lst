@@ -1,0 +1,11 @@
+mockitoExamples\DeliveryApi.class
+mockitoExamples\People.class
+mockitoExamples\FormatEmail.class
+mockitoExamples\SendMessage.class
+mockitoExamples\Email.class
+mockitoExamples\ZipCodeData.class
+mockitoExamples\InsertPeople.class
+mockitoExamples\Message.class
+mockitoExamples\WayToSend.class
+mockitoExamples\SendEmailService.class
+mockitoExamples\BankAccount.class
